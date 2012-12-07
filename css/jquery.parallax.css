@@ -5,3 +5,7 @@
 .parallax-layer {
     position: absolute;
 }
+
+body {
+	background:#000022;
+}
