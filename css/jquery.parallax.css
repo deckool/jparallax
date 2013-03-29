@@ -9,3 +9,7 @@
 body {
 	background:#000022;
 }
+
+element {
+	padding-top: 0;
+}
